@@ -47,8 +47,10 @@ Luua Kuressaare Ametikooli Disainimajaka fotograafia eriala tehnika rendi süste
 * Andmemudeli kavandamine
 * Andmebaasi struktuuri ehitamine ja selle loomine
 * Koodimisega alustamine
+* Figmas desktopi vaate tegemine
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/2ecda0e7-b2dd-4d80-a67c-8b8254f3b4be)
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/a1aa3b46-d637-43d6-a6dd-d001946f1b06)
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/25b25bd4-470d-4d60-add9-4b2ebfeeda93)
+![image](https://github.com/markheinmets/triipkood/assets/104862738/dc288e92-9c79-4450-a9ee-b62d9b055dba)
 
 
