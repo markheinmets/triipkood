@@ -52,5 +52,6 @@ Luua Kuressaare Ametikooli Disainimajaka fotograafia eriala tehnika rendi süste
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/a1aa3b46-d637-43d6-a6dd-d001946f1b06)
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/25b25bd4-470d-4d60-add9-4b2ebfeeda93)
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/dc288e92-9c79-4450-a9ee-b62d9b055dba)
+![image](https://github.com/markheinmets/triipkood/assets/104862738/dcce12b9-e534-4678-a0ad-1b90be6d0c13)
 
 
