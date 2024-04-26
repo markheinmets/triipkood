@@ -55,3 +55,8 @@ Luua Kuressaare Ametikooli Disainimajaka fotograafia eriala tehnika rendi süste
 ![image](https://github.com/markheinmets/triipkood/assets/104862738/dcce12b9-e534-4678-a0ad-1b90be6d0c13)
 
 
+## Kolmas päev (Päev 3)
+* Disaini uuendamine
+* Andmebaasi uuendamine
+* Koodimisega jätkamine
+* Viimistelime
