@@ -7,7 +7,7 @@ Luua Kuressaare Ametikooli Disainimajaka fotograafia eriala tehnika rendi süste
 - **Remo:** Dokumenteerimine, disain, back-end
 - **Jako:** Disain, front-end
 - **Jürgen-Mark:** Disain, front-end
-- **Emma:** Disain, front,end
+- **Emma:** Disain, front-end
 - **Robby:** Back-end
 - **Emily:** Disain, back-end
 - **Oliver:** Puudub 
