@@ -10,7 +10,7 @@ Luua Kuressaare Ametikooli Disainimajaka fotograafia eriala tehnika rendi süste
 - **Emma:** Disain
 - **Robby:** Back-end
 - **Emily:** Disain, back-end
-- **Oliver:** Puudub (Haige, Palavik)
+- **Oliver:** Puudub 
 
 ### Mentor:
 - *Karel Maarma*
