@@ -4,10 +4,10 @@
 Luua Kuressaare Ametikooli Disainimajaka fotograafia eriala tehnika rendi süsteem, mis võimaldab õppejõul tõhusalt hallata renditavat tehnikat ja jälgida esemete tagastamistähtaegu.
 
 ### Grupi Liikmed ja Tööjaotused:
-- **Remo:** Dokumenteerimine, disain
+- **Remo:** Dokumenteerimine, disain, back-end
 - **Jako:** Disain, front-end
 - **Jürgen-Mark:** Disain, front-end
-- **Emma:** Disain
+- **Emma:** Disain, front,end
 - **Robby:** Back-end
 - **Emily:** Disain, back-end
 - **Oliver:** Puudub 
